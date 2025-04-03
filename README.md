@@ -21,7 +21,7 @@
 
 ## Application Preview
 
-You can view the MEAN application deployed on Render at the following link:
+You can view the MEAN application deployed on Render  at the following link:
 
 ### https://funfit-sygs.onrender.com
 
