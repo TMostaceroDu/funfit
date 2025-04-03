@@ -1,43 +1,43 @@
 # FunFit
 
-**FunFit** is a web application developed using the MEAN stack (MongoDB, Express, Angular, Node.js) for comprehensive gym routine management. It is designed to provide an attractive, interactive, and personalized experience for both users and trainers.
+**FunFit** es una aplicación web desarrollada con el stack MEAN (MongoDB, Express, Angular, Node.js) para la gestión integral de rutinas de gimnasio. Está diseñada para ofrecer una experiencia atractiva, interactiva y personalizada tanto para usuarios como para entrenadores.
 
-## Technologies Used
+## Tecnologías utilizadas
 
-- MongoDB: NoSQL database used to store routines, users, and progress.
-- Express.js: Lightweight framework for creating RESTful APIs in Node.js.
-- Angular: Modern framework for building dynamic and responsive web interfaces.
-- Node.js: JavaScript-based runtime environment for server-side development.
+- MongoDB: base de datos NoSQL para almacenar rutinas, usuarios y progreso.
+- Express.js: framework ligero para la creación de API RESTful en Node.js.
+- Angular: framework moderno para construir interfaces web dinámicas y responsivas.
+- Node.js: entorno de ejecución del lado del servidor basado en JavaScript.
 
-## Main Features
+## Funcionalidades principales
 
-- User registration and login.
-- Personalized routine visualization.
-- Ability to add and remove series for each exercise in real time.
-- Automatic alert when all routines are completed.
-- Automatic progress reset after session completion.
-- Display of images and descriptions for each machine.
-- Smooth navigation between routines and machines.
+- Registro e inicio de sesión de usuarios.
+- Visualización de rutinas personalizadas.
+- Posibilidad de sumar y restar series por ejercicio en tiempo real.
+- Alerta automática al completar todas las rutinas.
+- Reinicio automático del progreso tras finalizar una sesión.
+- Visualización de imágenes y descripciones de cada máquina.
+- Navegación fluida entre las rutinas y las máquinas.
 
-## Application Preview
+## Visualización de la aplicación 
 
-You can view the MEAN application deployed on Render at the following link:
+Puede ver la aplicación MEAN desplegada en Render en el siguiente enlace:
 
 ### https://funfit-sygs.onrender.com
 
-## Developers
+## Desarrolladores 
 
-### Timothée Mostacero   
-#### Full Stack Developer  
+### Timothée Mostacero Durand
+#### Desarrollador Full Stack
 GitHub: https://github.com/TMostaceroDu
 
-### Fernando Pérez   
-#### Full Stack Developer  
+### Fernando Pérez Gómez 
+#### Desarrollador Full Stack
 GitHub: https://github.com/15ferpg
 
-## Local Installation
+## Instalación local
 
-### 1. Clone the repository
+### 1. Clonar el repositorio
 
 ```bash
 git clone https://github.com/TMostaceroDu/funfit.git
