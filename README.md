@@ -19,19 +19,25 @@
 - Visualización de imágenes y descripciones de cada máquina.
 - Navegación fluida entre las rutinas y las máquinas.
 
-# Desarrolladores 
+## Visualización en línea
 
-## Timothée Mostacero Durand
-### Desarrollador Full Stack
+Puede ver la interfaz Angular de la aplicación MEAN desplegada en Render en el siguiente enlace:
+
+### https://funfit-sygs.onrender.com
+
+## Desarrolladores 
+
+### Timothée Mostacero Durand
+#### Desarrollador Full Stack
 GitHub: https://github.com/TMostaceroDu
 
-## Fernando Pérez Gómez 
-### Desarrollador Full Stack
+### Fernando Pérez Gómez 
+#### Desarrollador Full Stack
 GitHub: https://github.com/15ferpg
 
-# Instalación local
+## Instalación local
 
-## 1. Clonar el repositorio
+### 1. Clonar el repositorio
 
 ```bash
 git clone https://github.com/TMostaceroDu/funfit.git
