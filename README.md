@@ -36,5 +36,3 @@ GitHub: https://github.com/15ferpg
 ```bash
 git clone https://github.com/TMostaceroDu/funfit.git
 cd funfit
-
-
