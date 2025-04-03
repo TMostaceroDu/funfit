@@ -29,9 +29,9 @@ GitHub: https://github.com/TMostaceroDu
 ### Desarrollador Full Stack
 GitHub: https://github.com/15ferpg
 
-## Instalación local
+# Instalación local
 
-### 1. Clonar el repositorio
+## 1. Clonar el repositorio
 
 ```bash
 git clone https://github.com/TMostaceroDu/funfit.git
