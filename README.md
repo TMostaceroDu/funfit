@@ -19,9 +19,9 @@
 - Visualización de imágenes y descripciones de cada máquina.
 - Navegación fluida entre las rutinas y las máquinas.
 
-## Visualización de la Interfaz Angular
+## Visualización de la aplicación 
 
-Puede ver la interfaz Angular de la aplicación MEAN desplegada en Render en el siguiente enlace:
+Puede ver la aplicación MEAN desplegada en Render en el siguiente enlace:
 
 ### https://funfit-sygs.onrender.com
 
