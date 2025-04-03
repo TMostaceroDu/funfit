@@ -19,7 +19,7 @@
 - Visualización de imágenes y descripciones de cada máquina.
 - Navegación fluida entre las rutinas y las máquinas.
 
-## Visualización en línea
+## Visualización de la Interfaz Angular
 
 Puede ver la interfaz Angular de la aplicación MEAN desplegada en Render en el siguiente enlace:
 
